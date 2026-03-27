@@ -1,0 +1,931 @@
+In 2016, I was awarded a prize by the National Forum for Teaching &amp; Learning supported and sponsored by the Ministry of Education in Ireland, peculiarly named: "National Teaching Hero."
+The reason for this award was my availability towards my students and my capability to create less formal and more comfortable educational environments.
+Let's imagine this place as a large university classroom.
+I'm used to enter the classroom, [in the] first ten minutes, when students enter and take place, I plug my computer to the speakers and turn a classical music on.
+I think this is the first step to build less formal and more comfortable educational environments and try to keep the attention of students at a high level.
+Unfortunately, this is not always easy.
+In my lessons, I employ a method in use since the ancient times: storytelling!
+Pedagogically speaking, storytelling is a method based upon the use of narratives, aimed at transmitting knowledge to students.
+I would start my lesson exactly with this method, by explaining, describing a topic on everyone's lips nowadays: Artificial Intelligence.
+Like every story narrated to children, I'd like to begin my story with "Once upon a time."
+Second World War, 1942, United Kingdom, Bletchley Park: a mansion house in the north of London.
+There was a thirty years old guy: Alan Turing.
+Alan graduated at King's College, Cambridge, and he obtained a research doctorate in Logic at Princeton University, in the USA.
+At that time, the Germans made use of a special machine: Enigma.
+It was like a typewriter: the operator typed some keys, but, instead of printing those letters on a paper sheet, other letters were printed, according to an encoding mechanically set under the machine.
+The Germans used this machine to communicate with each other.
+Anybody had listened in on this sheet had in front a meaningless text.
+It was encrypted!
+Alan Turing was one of the leading figures at Bletchley Park: he and his team implemented a machine, the one you can see behind me, able to decipher the texts written by the German.
+Due to this invention we believe that the war terminated two years earlier, saving many human lives.
+After the war Alan Turing continued his research in Logic and he is considered the father of Computer Science, the father of Artificial Intelligence.
+With his Turing machine, he formalises the concept of computer even before the computer was actually built.
+In 1950 he published a paper on the journal "Mind": "Computing Machinery and Intelligence," where he proposed the Turing test.
+The question behind the Turing test is a well-defined one: Can machines think?
+It is at that time that Artificial Intelligence begun.
+Probably most of you have watched the movie "The Imitation Game": The game of imitation.
+I am going to describe it to you.
+Let us suppose that a person is here, pressing keys on a computer keyboard, who asks, pose some questions and on the opposite side of the computer there is a machine M and an operator O.
+Alternately, the machine M and the operator O answer to the person P. It is said that the machine M passes the Turing test if the person P is not able to understand when the answers come from the machine and when the answers come from the operator.
+This is The Imitation Game.
+The machine must have special features in order to pass the Turing test.
+It has to interpret natural language: the question asked by the person.
+It has to represent knowledge in order to formulate answers.
+It has to think in an automatic mode in order to formulate such answers.
+And it has to learn automatically.
+There are many approaches to study Artificial Intelligence.
+One of them is the cognitive approach: it is based upon the human thinking.
+According to this approach, there are two ways to study the human thinking: either we try to capture thoughts right when they occur, or we try to model thoughts at a psychological level.
+For this reason, we say that Artificial Intelligence is closely connected to neuronal and cognitive sciences and to psychology.
+According to this approach, the assumption is that, if we can have a true representation of the human thought, then we can transfer it to a machine.
+Another approach is the one based upon the laws of rational thought.
+Probably most of you has heard about the Aristotle's syllogism.
+Socrates is a man; all men are mortal; [then] Socrates is mortal.
+This is a deductive reasoning: If we have two truthful premises, we can infer a truthful conclusion.
+Deductive logics comes from here.
+According to the laws of rational thought approach, we try to build deductive arguments and to transfer them to a machine.
+Another approach is the rational agent approach.
+A rational agent, an entity, has to act, has to adapt itself to the context, has to fix goals to itself, and be able to carry them out, and it has to act in a rational way.
+Therefore, the Turing test is related to intelligent agents.
+By rephrasing the Turing statement, "Can a machine think?",
+we can now say: is it possible to build a machine, an artificial agent, able to think, able to show understanding and rationality?
+Artificial Intelligence, therefore, aims at developing artificial intelligent entities.
+Your mobile phone is an entity.
+By developing artificial entities we try to understand intelligence as a psychological construct.
+Once we have a better knowledge about this concept, we try to develop artificial intelligent entities to support humans: it's a cycle.
+But let's see now whether machines are able to think.
+I'd like to briefly describe you the state of the art of Artificial Intelligence and I'd like to use five classes to classify artificial agents according to their abilities: we have sub-human and par-human agents, over-human, super-human agents and then we have optimal ones.
+I want to explain them with some examples.
+Optimal agents are the ones which act better than all the people and you can't do better than that.
+For instance, agents which solve the Rubik cube, those that play at "Four in a row" in the best way, or at Tic-tac-toe.
+Consider that some years ago, a boy, given an initial state of the Rubik cube, solved it in 4.73 seconds.
+Some months ago an agent, a robot was developed, which can solve it in 0.63 seconds.
+We have super-human agents which act better than all the humans, for instance in the chess game, in the Scrabble game.
+Some years ago the chess Russian champion Kasparov was defeated by an artificial agent.
+We have over-human agents, the ones which almost act better than most of the humans, for instance in the Texas hold 'em poker, in answering the Quiz Show questions.
+We have par-human agents, which act almost like all the humans, for instance in cognitive activities, such as crosswords or image classification.
+Finally, we have sub-human agents, which act worse than all the humans.
+Examples include objects classification, handwriting recognition, vocal recognition, translation from a language into another one.
+But if there is something that artificial agents nowadays are not able to do is for instance, disambiguation: Are we talking about the apple as a fruit, or are we talking about the brand of the Apple Corporation?
+And one thing that agents are not able to do is reasoning in the real world under situations of uncertainty.
+These are the main limitations of Artificial Intelligence, and because of these, it is believed that we are far away to pass the Turing test.
+Now, let's try to understand [whether] machines will be able to think.
+Some years ago, in America, a concept has been coined, named "Technological Singularity": by Ray Kurzweill, a world-renowned expert in Artificial Intelligence.
+Let's imagine a timeline.
+Let's imagine a line indicating the human intelligence, increasing.
+Let's now imagine a red line indicating the machine intelligence, with an exponential trend.
+This trend follows the Moore's law, whereby the computational complexity, for instance, as measured by the number of transistors embedded in a chip, doubles every two years and quadruples every [three] years.
+According to Ray Kurzweill, in 2010 we should have been able to use this computational complexity to emulate the human brain --
+I didn't see anything.
+In 2020, with 1,000 dollars we will have access to this computational capacity.
+In 2025, according to Ray Kurzweill, we will be able to scan our brain in a very accurate way.
+And eventually, in 2029 machines will pass the Turing test!
+And then, in 2045, he refers to that point in time when the technological singularity will happen, when the machines, machine intelligence, will follow an exponential trend that will significantly affect the human intelligence.
+In his paper, published on the journal "Mind," Turing not only proposed his test, but he also suggested nine objections against his own test.
+These objections are nine objections against Artificial Intelligence.
+Some years ago, when I was a student at the University of Varese, I attended a course on "Epistemology, Deontology and Ethics in Computer Science" held by Prof. Gaetano Aurelio Lanzarone.
+Unfortunately, he passed away some years ago.
+One of the assignments we had to do was to propose a tenth objection against the Turing test, against Artificial Intelligence.
+I was the only one who proposed a tenth objection expressed as a mathematical equation, that I labelled "human stupidity."
+I'd like to explain it in simple terms.
+Let's assume we take the intelligence of all humans and we put it all together.
+The Sum symbol of the equation on the left hand side.
+And we transfer this intelligence as a whole to a machine.
+Then, we get an equality of intelligence.
+But in some way the machine becomes more intelligent than us.
+Though, if it is true that were us who have transferred our intelligence to a machine and it becomes more intelligent than us, it is also true, as well, that we let the machine become more intelligent than us.
+Then, in order to conclude my story, and referring back to the initial question: "Can machines think?",
+I'd like to leave you with an open question: Does really makes sense for us to let them think?
+Thank you.
+(Applause)
+Good evening.
+(Applause) How many of you have taken photos?
+Come on! OK.
+This gives me more or less an idea that I haven't worked on something useless.
+Good evening everyone, my name is Irene Alison. I am a journalist who is concerned with photography.
+I am the creative director of a studio that is concerned with photography and I am a person who takes many photos with my phone, which definitely does not make me a photographer.
+I spent the last three years -- this is me among my papers -- concerned with a liquid material, mobile photography. That is, photography produced and spread through the mobile phone; its limits, its contradictions, its potential, its impact on the market, its use in design and authorship.
+But what sense can attempt to comprehend something so contemporary that is changing while we are here discussing it?
+This is only one of the questions that I asked myself in these three years and makes me want to share it with you tonight.
+But there are many other things about it: In what way does mobile photography change processes through which we communicate?
+Can we consider mobile photography a new language due to the way it influences both the aesthetic of our vision and our forms of communication?
+Does the technical knowledge that exists, in the production of a photo taken by a professional photographer, still make it different from the simple action of pressing a button on a smartphone?
+And in what way does mobile photography change the forms and structures of professional photography?
+To find the answers to these questions I tried to open a discussion with photo editors, curators, critics, theorists, who, regarding mobile photography, had ways of elaborating their experiences and reflections.
+I asked professional photographers, instead, who, already ten years ago embraced the challenge of this new medium, to share with me the anatomy of their projects, the reasons for their formal choices, the results of their experiments of the production and sharing of photos through the phone.
+To find some answers I looked within myself and I arrived at New York.
+At the desk of the photography editor of The New York Times Magazine, Kathy Ryan in Berlin, in the seat of AIEM, one of the major actors in the new market of mobile stock; in Paris, in the hall of Paris Photo, one of the most prestigious photography exhibitions in the world.
+To enter these places where photography is distributed, sold, put into context, and in order to understand in what way mobile photography changes these systems.
+In order to find some answers, I tried to look beyond, beyond the surfaces of the great, common, visual places of the new medium.
+The selfie, for example: is the selfie simply lending itself to a global narcissistic frenzy?
+Is it putting itself in connection, as some psychologists claim, with the body dysmorphic disorder?
+Is it believed to be directly linked, as some sociologists have written, with the low employment rates of the millennial generation?
+Or shouldn't it be seen as a healthy self affirmation, as a statement of identity, as a subversive re-appropriation of the image itself, as happily claimed by feminist visual artists like Kate Durbin or Leah Schrager?
+Is the faux-vintage aesthetic, which marked and still marks our vision of the mobile -- this is my dog, Zazì, designated victim of my photographic experiments -- simply the product of a worldwide epidemic of bad taste, or instead, as the sociologist Nathan Jurgenson claimed, can it not be read in light of more complex factors, of our social nature, historically as much as economically?
+But photography, I believe, is not the realm of answers, it is the realm of interpretations, and for this phenomenon I tried to give an interpretation in a book which is titled: "iRevolution, notes to a history of mobile photography," because of the incessant influx of images which we are exposed to it seemed useful to me to try to design a map, if not to find the route, at least to understand what point we're at.
+A what point are we at?
+The history of mobile photography is short, but in a few years it has engaged millions and millions of people; a new set of rules, which surpasses every linguistic barrier, used daily to communicate, to show, to display oneself, to feed a constant flux of images which let people communicate from one corner of the planet to another.
+A global conversation, or a collection of monologues, if you wish, that counts a tremendous number.
+Every two minutes today, we take more photos than humanity took in the entire nineteenth century.
+Over 350 million of these pictures are posted every day on Facebook; more than 70 million on Instagram.
+The production and circulation of images, of an activity which until a few years ago was restricted to a limited circle of professionals, became an instant expansion of our daily lives, a form of social interaction, a way of projection of our private sphere into the public dimension, in which we define ourselves by the images we produce, or better, we exist because we produce these images.
+And if mobile photography is a new language, then it is the mother tongue of the liquid man, in a modern time that is still strongly marked by that process of liquefying certainties so brilliantly identified by the philosopher Zygmunt Bauman as typical of a modernity whose structures, work, family, couples, are always wavering and whose actors are changing points in a universe in movement, disoriented in the face of the myriads of messages which strike them daily.
+The flux of mobile photography seems the more natural form of expression, a liquid vision that is made and destroyed constantly, simply based on the instant gratification of our need to share.
+But in a world in which everyone, at any given moment, can record and share, any event, with their mobile phone, what role does the professional photographer play on it?
+And what difference is there between incidental photographers and conscious photographers?
+On one hand, the ease of using the camera on a mobile phone has transformed photography, from a vocation of professionals, to a universal language, bringing to completion the process of democratizing photography which began with the time of Kodak and has lasted up until the iPhone.
+On the other hand, the use of the mobile as a means of taking photos has offered professional photographers new possibilities in their approach to their stories, their contexts, their subjects.
+Again, on one hand, the opening to everyone, to all of us of a window into a conversation with a potentially global audience has displaced the professional photographer of his exclusive role as producer and distributor of images, has put both its social function and economic position into crises.
+We only have to think of the role that mobile photography and social networks had in the Arab Spring, demonstrating that it is a powerful tool to direct the public opinion, and a widespread source of images and information that is difficult for regimes to control.
+This is an image of "Cairo. Open City", an exhibit that Essen's Museum Folkwang dedicated to the role of mobile photography in the Arab Spring.
+On the other hand, however, try to think that the possibility of direct interaction through the Web, through Instagram, between the photographer and the audience has freed the photographer from the compulsory transition to the hands of the editor, it has freed him from the necessity to withstand a political agenda, and an editorial line dictated by others, and not always on the basis of journalistic priority.
+It's freed him from the inability to reach the subjects of his message, if not through traditional means like information sites, magazines, newspapers, galleries of limited access and resources and has allowed him to put himself directly into the flow of news, conveying visual contents in real time.
+A particularly interesting example, the Time magazine in 2012 with Hurricane Sandy, via Instagram, on the cover, when Time gave five photographers the references to go onto their Instagram accounts and post directly, in real time, through the 'take over' mechanism their own images, sketching such a new model of news making and visual journalism, real time journalism, this is the maquette of the book that originated after this experiment.
+And if it is true that in the era of Snapchat we compulsively photograph, and rarely return to look at our images producing a number of photographs many more than we are capable of remembering, it is true that in this same era new ways of preservation of the iconographic memory are born, like for example, Save Family Photos, an Instagram account founded by an American photographer Rachel La Coer Niesen, and dedicated to the conservation of the universal property of family photography in the times of photographic bulimia, it snaps and leaves.
+Every photo collected through an open poll to all Instagram users is the reminder of how we were overall, in which, reading against the light, is the evolution of photography and of nineteenth-century society.
+Or new ways of curatorial selection are born like 14&amp;15 Mobile Photographers, an international showcase for authorial works produced and distributed through the iPhone created by two Italian photographers, Giulio Napolitano and Giorgio Cosmich, through a dig into the Instagram accounts of professional and non-professional photographers, and a careful selection of those a more stylistic and narrative substance around a given subject.
+But what are the photographs that in recent years have used this tool with a greater authorial awareness?
+They are photographers like Michael Christopher Brown, Benjamin Lowy, or Ron Haviv, who used and still use the smartphone in conflict zones, demonstrating how the agility and the discretion of the medium can make a difference in terms of personal safety and quality of investigations.
+Photographers like Teru Kuwayama, who beginning with a simple smartphone has explored new ways for news making, creating a platform of base trek to allow contact for the American soldiers stationed in southern Afghanistan with their families, and create such an agent of information from their front first hand.
+Brand Mangin, who used it for sport photography, exclusive territory of photographers with very advanced devices, and made use of it by giving a close and minimal narration of Major League baseball.
+Richard Koci Hernández, who used its discretion and ease of use for street photography, creating a very personal aesthetic.
+Radecliffe Roye, who made it a means of denouncement, giving a face to the Afro-American community in Brooklyn, and creating a community devoted and participatory to his work.
+Matt Eich, who uses it daily to construct his family album triggering a reflection on how Instragram changes the boundaries of our privacy and the way in which we construct and conserve our visual memories.
+Peter DiCampo, who through the account Everyday Africa, dedicated to his story of a daily and normal Africa, beyond the media's stereotypes of Western origin on the crisis and famine, has demonstrated how mobile photography, far from limiting itself simply to generating visual clichés, can be used also to bring photo-journalistic stereotypes into discussion.
+Like Stefano De Luigi, who reinterpreted Homer's Odyssey with his phone, recounting in his series Idissey one of the oldest legacies of Western history with the newest visual tool.
+Or like Anastasia Taylor-Lind, who photographed the protesters who took to the streets in Kiev during the Maidan protests with an old Bronica camera, and simultaneously recorded with her phone the moment in which the shutter of the Bronica closed and hid the image, capturing such a photographic experience, in the point between analogue and digital, in between long ago and right now.
+Well, what do these photographers know that all of us don't know how to do?
+To recount, going to the periphery of the action, or trying some very personal visual cuts of the event.
+To evoke more than record, creating images that are never forced into reality, but what are born from profound interaction between photographer and context, between photographer and subject.
+To creatively contaminate the rules of storytelling, to project in a cross-medium lens, thinking and realizing their own contents to be spread on different platforms, and reach different audiences.
+To make networks, using connections in an innovative way.
+To focus on the authorial exercise of their own point of view of the world and on the quality of investigations, because whatever the photographic tool of choice is, only if the entire photographic planning is supported by a solid composition, articulated in a coherent way, can it be distinguished from the visual noise that fills our eyes.
+All this, I believe, still makes the difference between a photograph that simply chases the real, its bulimic reproduction, its self-referential sharing, and a photograph of the truth that can still be a powerful cultural metaphor.
+Thank you everyone.
+(Applause)
+Are you listening?
+Do you hear that?
+What we think of as silence, is actually 50 Hz of electric current.
+50 Hz that subtly seep deep in our mind, breaking the spell that there's a silence.
+Sorry, there is no silence.
+Even in this room, those projectors, those screens, emit a 50 Hz frequency.
+Just figure out: you commute, after a long day at work; eat with your partner; then you lay down in your bedroom, and you believe you're alone.
+No way, that 50 Hz frequency is always there. And I simply raised the volume, because you can't hear it in our homes, in our lives, but it sounds like this.
+We have a bright side -- well, I will start with the dark side: there is no silence.
+But there an upside also: we're never alone. There is always this current, this frequency of 50 Hz, along with us.
+Great. But it's boring this way.
+But if we look at it as an illustration, this 50 Hz frequency is just a sound wave. We have a very rich spectrum to make music with.
+So, I once asked myself:
+why can't I make music with it?
+Well, I am a sound composer.
+A little peculiar one, actually, as I decided to complicate my life by making music but through noise.
+My parents got divorced when I was very little. I know what you're thinking: this is the same old soppy story.
+Not at all, it actually was
+an epiphany for me. In the loneliness of those days, in the burden of that empty home, I started doing music with everything around me.
+Every piece of furniture was not just a piece of furniture anymore, standing still, without a voice, but became my musical instrument.
+You can imagine how happy my mother was, who often couldn't find pots and glasses.
+She's watching me through the streaming, by the way, and that's another epiphany.
+(Applause) Sure, I tried to become a normal person. And I say "I tried" because I began studying guitar and piano.
+Plus, I liked Woody Allen, so I started playing the clarinet.
+But Renzo Arbore also loved the clarinet and wrote a nasty song about it, thus ruining my innocent years.
+So, I quit the clarinet.
+Just not to give easy illusions to my classmates.
+But why did I quit?
+Why did I escape that rigid education?
+Because there's more richness in a noise,
+more musical spectrum in a noise.
+And I like to compare it with the problems of our life.
+We all have a failure, a noise, with us, something that made us cry; but I'm sure that that noise helped us grow much more than a smile.
+My mission, since I was little, is transforming failure and noise into music and harmonize everything that surrounds me.
+Of course, I could have become an ordinary pop musician, and get away with it,
+but I decided to complicate my life.
+What is sound?
+What is hearing?
+Hearing is one of the hardest sense to understand. But it's also the most immediate and most powerful in order to convey emotions.
+Our inner ear. The ossicles, the tympanum, reach their full functionality around the fifth week of pregnancy. The fifth week of pregnancy!
+So we start hearing before speaking, we start listening before seeing,
+and this doesn't happen by chance: the foetus has to be ready to what life will be like. It must be ready to the sound texture.
+He must not be afraid, he must be ready!
+That's why, If the mom, during pregnancy, listened to British punk rock the baby will only calm down, later on, by listening to Sex Pistols.
+So please, future moms, I have a personal request for you: pay attention to your music choice.
+Pay attention to trap, mostly, ok?
+(Applause) OK, but what's actually sound?
+Sound is everything around us. It's the untouchable becoming emotion.
+It's the abstract ingredient in our life: We can't touch it, we can't see it, but it's the soundtrack of our daily life.
+Our partner arguing with us, Our mom yelling at us, because our mom always does anyway.
+That's the soundtrack of our daily life.
+Sure, vision is much simpler.
+It's when we enter the Sistine Chapel and we say, it's smaller than I imagined.
+But smaller than what?
+Than the Duomo in Milan?
+Than St. Peter in Rome?
+Than our home?
+The same happens when they first see me in a video, or on stage then they meet me in person and say, I thought you were taller.
+Of course.
+Shorter would be impossible.
+So, starting with this preconception, vision is what allows us to see, hearing allows us to dream.
+Let's flip our life upside down.
+I would like to turn all over your ability of perception.
+For example, we are on vacation
+and we start taking photos of our feet: in the sand, from above or below.
+Even from below, we do them even if we're not supposed to.
+Then it's happy hour, so let's call a drone to take a photo of the drink from every possible viewpoint.
+Attention now, it's dinner time. Don't eat the dessert, I have to take photos because I have a food blog.
+No, I don't, but let's fake it. It talks about 0 km food, 20km food, who-knows-how-many-km food, multisensory, multi-channel food, so focused on food that, in the end, who gives a food.
+And no one eats the dessert!
+We shoot it, we look at it, do countless videos, but we never stop and listen.
+Not even someone we know.
+Quick tip: when you argue with somebody, the best chance to truly know someone is when you are in silence.
+A silence that doesn't exist, by the way. Just stop and listen.
+Like now, in this moment.
+Today I want to bring you with me.
+Let me bring you around the world upholstering your typical listening experience.
+And I'd like to begin by sharing the dream of my life. It began by listening to myself.
+For the first time, I listened to myself.
+It was 2013, and I wanted to flee away from Italy.
+Away from my failures, problems, whatever.
+They turned into harmony, later on, but first pushed me to go far away from Italy.
+I just picked up a city in the atlas.
+There still were atlas, back then.
+And I chose one of the most distant city, both culturally and artistically, from me: Shanghai.
+I applied for a contest, I won an artist residence, and the best period of my life began, because, for the first time, I was listening to myself.
+I was broke, afraid, with an idea no one believed in but me.
+And it was, I would have listen sounds from all over the world, of all the cities in the world, creating for every city a different soundtrack. I called this project "The Sound of City".
+And everything began with the noise of every city.
+They all are a great musical instrument.
+By tuning this musical instrument, but you can enter the intimate part of the city.
+And now I want to bring you with me in Shanghai, whose sounds I recorded for 48 hours nonstop. and I made a soundtrack out of it.
+Now I want to play "Shanghai" for you.
+(Applause) (Music) (Applause) But I saw you all!
+That was a test, everybody
+was looking at the video. No, it wasn't a test, but let's pretend it was.
+You were all watching the screen.
+There is a city I'm sure you shot in every possible way, and you often asked yourself, how does that smoke from sewer covers sound?
+Can the Brooklyn Bridge sound?
+Yes, the Brooklyn Bridge is a gorgeous xylophone, 100% wooden by the way.
+And I want to play it for you.
+(Applause) (Music) (Applause) The clock is ticking, and I have an important thing to say.
+Beautiful, nice, wonderful: but it's not beautiful just because it's far away, it's not magic because it's somewhere else.
+It's magic because it's here every day.
+And maybe many of you detect some places in this photo.
+The rule of Sound of City is: 48 hours without sleeping, walking around a city, getting lost in the same city.
+Well, I already knew Genoa.
+I had been here several times.
+I went here intentionally.
+But I'd never listened to it so profoundly.
+And I can tell you, listening to it this way, It's among my favourite cities now.
+One round applause now, please.
+(Applause) Now, I started recording the first sounds
+These children gave me those sounds. In Genoa's Porto Antico, this metal tube I found gave me this audio sample.
+I will play the raw audio sample first, and then the processed one.
+(Music) And now the processed one.
+Then, I went to the spianata of ... ?
+Public: Castelletto. CL: You rock.
+And since I've never been that normal, I got attached to this beautiful handle which gave me back this very low frequency which in turn became a synthesizer,
+Raw sound.
+Processed sound.
+But Genoa is more than this.
+I am serious. Look at this.
+Anyway,
+The writing in De Ferrari square is not only a writing. It's a huge musical instrument to me. and it helped me design the beat of the soundtrack. That's more or less how it sounds.
+Last sound now, before I play you "Genoa", the sound of all the ships in the port. We are used to look at them from above,
+but sound is opposed to vision. So I created this microphone. I plunged it for 48 hours here in the port, and I found the sound of a boat that got me a particular frequency, which became the melody.
+I say "it became the melody" because, when I looped it, it became the most important voice of the soundtrack.
+This is rock and roll sound.
+Sure, nice.
+I wanted to play you "Genoa" but I better leave now.
+Just kidding, that's how Genoa sounds.
+(Applause) Now, do you hear that?
+Do you hear that sound?
+This is the sound of our passion, mine and yours.
+And even if they tell you they are failure, they are noisy, they are still worth listening to.
+And I appreciate you listened to me.
+Thank you!
+(Applause)
+How do you say “Give Back” in Italian?
+The word normally used is “restituzione”. It’s not perfect, but you get the idea.
+In general, the idea behind restitution is connected to monetary repayment, to charity.
+Very often, however, giving back is connected to giving back what one has done, learned.
+And moving from a pointless complaint that “nothing works” - and in Italy , “nothing works in this country” to “let’s give it a try”.
+So in the next 18 minutes I'll share some elements of this story.
+It starts in the late 90s, 1999 to be precise, this is my son’s kindergarten in Redecesio, close to Segrate.
+That same year my wife Monica organized a fundraising for that kindergarten's supplies.
+It was a strenuous task, with lots of parents involved, some of which would object, Why should we care about it?
+This should be the State's business, or the Municipality's”. But most of them would take part in these challenging tasks to help out the kindergarten, to help out the community.
+1.200.000 lire were raised: for those who don't remember, it's roughly 600 euros today, And it was a sum of individual efforts, an extraordinary effort.
+A couple of months later we moved to the United States. This seems the same school, but it is a similar one outside Seattle.
+This is my older son.
+And we found ourselves in a totally different reality, where things that are extraordinary in Italy are, instead, completely ordinary.
+The concept of giving back is totally normal there.
+The strenuous effort of a handful of Italian parents is deemed ordinary in that society;
+I am not saying the American society is perfect, far from it, but the whole concept of giving back: I was fortunate, so I give back, I help the school, I help the university, I help the museum, I help theaters, and as a result all communities basically live off of giving back, of volunteering.
+I'm not saying there's no volunteering in Italy, but in US it's a real phenomenon, there's a positive feedback, and all sorts of mechanisms: you have tax deductions, processes, and they work, that society
+is grounded on it.
+Let’s move ten years into the future.
+Some of you may have recognized this as the launch of the website in support of the so-called Obamacare, a website that says “The system is down at the moment”.
+Trump is actively trying to make it so “the system is down at the moment”.
+Obama launched the well-known Obamacare and there was immediately an infamous and incredible technological debacle.
+A technological launch, more than 100 million dollars- so rest assured, these things don’t only happen in Italy, and they build a website that doesn’t work.
+Millions reached out and that's the standard response they were getting.
+Long story short, endless criticism for a couple of days, then someone quit complaining and rolled up their sleeves.
+Shifting from complaining, which is easy and normal, to try and help, which is committing and extraordinary. does not come naturally to us.
+This is a cover for Time Magazine which depicts experts in technology who were sent by Google and other companies. They volunteered and with White House's consent restructured and relaunched the website, in very few weeks, at 10% of the cost, Here, lots of people would frown, Google must have a second goal to do that,
+And this extraordinary, not ordinary, effort, seen that they landed on the Time Magazine cover, was very interesting, and I want to explain the real driver behind it.
+It happened because of people who have learned a lot in their lives,
+they had all this baggage, and decided to give back the experiences that have filled their own lives.
+Experiences that have to do with the ability to manage large tech systems, as well as complex, scalable and repeatable processes and make them in turn, replicable and scalable system-
+And create a replicable system which is the US Digital Service.
+From this joint effort a new replicable system was born, the one we hope to do as well.
+I’d like to highlight the word "models" because people learn from models,
+the Yodas in our lives which have inspired and taught us.
+The ones who have taught us perseverance, the will to never give up, to keep going on, energy, empathy.
+These, then, are the models that make up this baggage that we need to recycle and want to give back.
+Obviously for me it wasn’t only because of everything we’ve been talking about but also because of the Italy factor.
+I left Italy for almost 20 years ago, I had the idea of coming back to help also because I am Italian and I really wanted to do it.
+Do or do not, there is no try.
+[Translates into Italian] Maybe the Italian version would be, do or do not, complaining isn't enough.
+A couple of years later, it’s five of us, I meet Matteo Renzi in San Francisco, he had come to visit Silicon Valley, Renzi was aware of the need of transformation in general,
+he got some things really well, others less so,
+and one cornerstone is the transformation of processes, and the digital transformation of the public administration.
+He asked me “why don’t you come back and help Italy for a couple years?” I seriously consider it, talk to my wife Monica, obviously, and with my boss, Jeff Bezos.
+In short I decided to apply a selection methodology, the so-called “do not regret” approach, like:
+in a couple years, will I regret trying and failing or will I regret not having even tried at all?
+The decision was made and so we go back from Seattle to Rome for two years on leave from Amazon.
+What the heck are you doing?
+Ditching Amazon pro bono? Are you crazy?
+Come on, what's the real deal?
+These are only some of the comments,
+but I must say I have also received enormous support so right now we’re focusing on that part, but the positive part was also there.
+I mentally prepared myself for all the skepticism and the bureaucracy.
+People ask me, did you expect all this bureaucracy?
+Of course I expected it, obviously.
+But here, skepticism is cynicism and marks a certain mindset: you’ll never make it, it’s all for your own benefit,
+I have heard a lot of such critics.
+What we really lack in our country is the sense of greater good, of acting because you think you are helping out, not just for your own game.
+And here we are. For the younger people here, he is a detective, the more senior will recognize him as detective Maigret.
+I say this because my awkward qualification- my sons mocked me immediately about it. of "Extraordinary Commissary" is simply because it was the only way that would allow me to hire people from outside the public administration.
+In fact, the only thing I asked for was: given that systems don’t promote change from within, we want to try to change them with the help of outsiders, people whose ignorance of the public administration's machinery is an asset, not a liability- an advantage, not a disadvantage.
+So I basically wanted to create a small team of,say, 25 people, a number which wasn’t too large but not too small either, made up of 80 percent experts in technology, and 20 percent of experts in judicial and legal matters, as well as governance and communication.
+Here you see a post I created upon starting this adventure.
+I said: why not write what I think will happen?
+We wanted to attract good talents
+“Dear talented people across Italy or abroad but willing to come back, even if temporarily, for a much lower compensation than your current one. How can I convince you?”
+So I tried to figure out, “how can I convince someone to come and do what I am doing myself?”
+Maybe some of you recognize it.
+The picture next to the text is the Bell’s guy who in 1947, connected all US households-
+put phone wires all across US, actually, In this massive effort of investing to upgrade the infrastructure, we created the vision of a country’s "operating system", a series of building blocks upon which one can build simpler and more effective services for citizens, public administration and businesses, all through innovative digital products.
+A charming vision indeed: implementing it, it's all tears and blood.
+I kept going with my post, the playing field felt quite sloped.
+That's actually an American football field, I guess.
+And I kept going, “we will also run into complicated and sometimes incomprehensible rules, it’s an easy prediction to make.
+We must learn how to handle all the bureaucracy intelligently. Many will say, you don’t understand how the public administration works, many people already tried and failed, in Italy it doesn’t work like that.
+And I keep going, we will receive a lot of objections.
+Some comments will be genuine and useful, others cynical and prejudiced.
+The first kind comes from people who want to contribute spontaneously, and I met many of them.
+The second kind, from those who want to defend the status quo and always see the glass half empty, or simply surrendered and embraced impotence.
+And this is a big problem. Giving up on things that do not work.
+Do you remember this picture, of men and women on the cover of Time Magazine?
+And here we are,
+even though I tried discouraging as many people as possible we still received roughly 3.000 applications, of which at least 100 were definitely qualified.
+We used digital tools for the interviews, an application called Jaz, we embedded it on the government’s website, we created a math test and a coding test for the tech part.
+The team reached a critical mass of around 15, 17 people back in January, now it’s slightly more than 20.
+And we got to work right away. What do we do?
+Basically, we deal with plumbing.
+These are the "pipes" of the public administration. Some need to be created, many ought to be connected because the biggest problem is that the systems, the processes, the application softwares, anything that's supposed to be networked is instead in a stand-alone silo.
+And I’m not talking only about machine-to-machine, I’m talking about people who don’t want to share their data, their softwares, their own apps.
+So it’s all about introducing the concept, writing it down, explaining it, and over the years implementing it, of connectivity and interoperability.
+Exposing the "source code" of the public administration, of their software.
+And do lots of project management activities.
+So lots of plumbing work.
+But we’re also painters, to a certain extent.
+In order to provide good public services, over time one also needs to improve the user interface, simplifying it,
+and all these things are done on the side - but without the pipes, one cannot be a painter.
+After a couple of months, in May 2017 we drafted a three years plan for the public administration, in collaboration with AGI and other people who helped us.
+What, then, is so special about a 3-years public administration digital transformation plan?
+There is one special thing. It exists.
+Secondly, it is written in a clear, technological, but also procedural way.
+For the first time ever, it was incorporated and sponsored by the government.
+Paolo Gentiloni signed a President of Council of Minister decree, stating: "The digital transformation is a government’s priority,
+the 3-year plan requires teamwork to simplify not only the public administration, but also the life of citizens,
+Interestingly, the plan is meant to be updated every year, because plans cannot be static, especially when dealing with technology.
+And the plan is also open to the administration.
+What is this?
+This is the usual way of planning for Italy's public administration. "Regulation about technical discipline...." and you will find three pages of checks and connections to other rules and policies before reading the very technical rules which are almost hidden and quite incomprehensible.
+We can't get rid of these things, but we can work by ourselves on other things,
+so the three-years plan is on GitHub, the techiest among you know what it is, It's on a forum, so we can talk to administrators and get feedback. The documentation is on Read the Docs so that administrators, the public administration itself, and the software house can work on and improve the technology. Now let’s switch gears
+and focus on another part of the plan, which are enabling platforms.
+What are enabling platforms?
+They are digital payments, all the things that allow PA services to flow horizontally, And there will be more of them.
+Digital payment is one example, a digital ID card is another enabling platform.
+Digital identity is an enabling platform.
+The largest project we're currently working on is called the National Registry of Resident Population, We are collecting, simply speaking, all the citizens' data which are now scattered across 8,000 separate silos, namely the 8,000 Italian Municipalities, in one synced database, where different data talk to each other, are all synced, and talk to the applications, to the administration.
+When I move from one Municipality to another, today I must -- first of all, things are handled manually. It's my responsibility to go to the National Health Agency, the DMV, and communicate to all these agencies all the updates the State should already be aware of.
+We are tackling the technological solution: a lot is left to be done on the processes' side.
+One week ago we did a Hackathon, where 800 software developers worked on those enabling apps, 96 bug-fixing interventions came out regarding fixing software problems, documentation improvement and even new projects.
+This was done across 25 Italian cities, including San Francisco, which, while not in Italy, hosts lots of Italians who help us from abroad to improve the technology.
+All this flows, and we are talking about sustainability, replicability, and scalability, on the developers.italia.it website where all the ever growing documentation and codes are exposed of Italy's Public Administration apps.
+Right now we have about one-fifth of the final product, maybe even less than that.
+The future is today,
+so let’s dream a little.
+We are also working on other projects which are not limited to plumbing, where painters are also involved,
+but pipes are to be completed, sorry for stressing on that.
+This could, for example, and it is one of those things the alpha version will soon be released, be called Digital Citizenship. You get a smartphone, a digital identity, data from the electronic ID card, working NPR, all with the goal of easing the interaction between citizens and public administration, with a simple interface.
+We are dreaming a bit, because there is seriously plenty of work to be done, but this should be the vision.
+A few weeks ago, La Stampa celebrated its 150th anniversary and wrote an editorial called “The world ahead of us”.
+Many people were asked what they thought could happen.
+They asked me to talk about simplifying citizens’ everyday lives.
+I took the chance to write an article, and I'd like to share a passage with you today.
+“It’s all about wishing/dreaming, and maybe we can do that. We wish for a country where politicians trying to understand digital transformation instead of fearing it, fighting it, are the norm, not the exception.
+A country where laws acknowledge and promote the right to innovate, instead of suppressing it.
+A country where strong technical skills can also be found within the State and public companies.
+A country where more public and private companies are run by 30 year-olds than 70 year-olds.
+Lastly, I imagine a country where working for PA is deemed an honor.
+Where the best brains compete to access public research centers which truly are centers for excellence and innovation and foster our country’s development.
+This might only be a dream and the components to get all this done - political, processes, digital, technological, are way too many; but if we don’t have a dream to aim toward to, hardly anything can be done ever.
+Before wrapping up, this is my mom who belonged to those who would asked me “Who the heck got you to do this?”.
+(Risate) She’s sitting right here today in this theater, by the way.
+But she's much more optimistic now.
+Above all, I was able to explain what I'm doing
+and now she also shares our mindset, like the 25 young people in our digital transformation team. She understood what we are doing, like many people who believe in us and who want to do something...
+(Risate)
+"It. Is. Possible!"
+And if you want to know more about us, here is our website and social media.
+Thank you.
+(Applause)
+If you had the chance to make a wish, even just one, to change an aspect of your life which isn't going as you wanted, what would you change?
+What would you guys change?
+Hands up who would change the job, the boss, the workmates?
+You are afraid, aren't you, because they're looking?
+Because I know, my workmate
+is right behind me. So, hands up who'd change a part of the body.
+Maybe lose some weight, or gain them some muscles?
+Well, here feels a bit more free.
+So, hands up who'd change their bank account?
+For the better, of course!
+Everybody would, I knew it.
+Or maybe you are one of them who would change partner.
+(Laughter) During my life, I've often wondered this.
+Of course, not changing partner.
+And the answer changed, because at primary school, I'd like to have a closer family, but my parents were separated; at middle school I'd be better looking, so girls would appreciate me more; at high school I wish I had felt more complicity with my teachers. But they all looked hostile, so I used to hide in music.
+Here, the big Vuoto a Rendere, in the recording studio.
+After university, I wish I had started to work, but I didn't take into account the barriers to accessing the job market.
+So I spent the first part of my life fighting and struggling to try and understand how to change what I didn't like: from what others thought about me to huge economic operations; from interpersonal relations to all the peculiarities I was born with.
+When I became a psychologist instead, I extended this research to other people also, and I realized they used three strategies overall.
+These strategies, if used in small doses, could even be somewhat useful.
+But if, as happens in most of the cases, they were the only three trump cards to play in a crisis, not only they didn't solve the situation, they were actually compounding the problem.
+Currently, complaining is the most widespread strategy.
+We complain about anything: there is crisis, there isn't work, there are traffic jams, it's cold, that "I'd do it different".
+We complain because life is unfair.
+I know many people who fall into the complaining trap.
+And the problem is, if we give it mental space this blocks you, mesmerizes you and it spreads like wildfire.
+I rember a girl, a patient of mine, who just cried about herself all the time, from when she started talking to when she stopped to go back home.
+She started complaining about her ex who broke up with her, then about the girl he betrayed her with, and then the fact she hadn't a job, the last Government operation which didn't help her.
+She felt she had no value, no skills.
+So the complaint had effectively taken over all of her routine.
+But complaining is a big temptation for all of us, because with a little effort you can gain a big result: become a victim, who must be listened to, cheered up, helped.
+But beware: you can complain day or night, alone or with your friends, loudly or in your mind.
+The object can be something that already happened or something that just might happen in the future.
+You could complain pointlessly or, as usually happens, you could complain with good reason.
+Because all of us could have lots of reasons to complain about.
+But the truth is as much you make efforts to complain hardly something around you will change.
+Actually you'll just focus on what annoys you the most.
+If complaining is your default option, when things go south, you presume somebody is there, working on a B plan to save you.
+Good luck.
+Another common strategy, when things don't fit, is to impose ourselves.
+Impose our need.
+this approach is rooted on a growing cultural factor: we have learned that if we don't like something, all we need to do is change it.
+We can control as we wish everything around us.
+You don't like your nose?
+You go to the plastic surgeon.
+Do you feel down?
+Why do you have to stay in pain?
+Take two pills and let's solve it easily.
+Your wife annoys you? Divorce!
+
+Are you cold? Let's everybody
+turn on the heating!
+Your son doesn't listen? Beat him!
+He is too old so you can't
+beat him anymore?
+Send him to the psychologist: we are here for this, after all.
+My vocation - that's why I chose this path: to ensure that the world around you
+fits perfectly with your needs.
+The context where this strategy pops prominently up are the couple's relationships.
+I remember a couple in particular. During our sessions all I did was listen to what, according to one of them, the other needed to change, in order to have a little brighter future.
+He: “Not even if I begged you in Chinese, would you consider giving yourself to me!” Which is a classic!
+She: “No, you never show any interest for me, unless you want that”. He: “No, you never see all the good things I do for you”. She: “No, you never listen to me, otherwise you'd do things differently, to effectively help me”. And so on, endlessly, an exhausting fight that always begins with the same haunted word: You.
+Because we always have to show how inadequate the other is. We have to show them all the problems they should fix, in order for us to get back all the happiness they took from us.
+But actually, even if we often speak in good faith, deeply convinced what we say, we can hardly make anything change.
+In fact, instead of detangling the knots of our relationship, we end up tightening them even more, and making them heavier.
+If the strategy we choose, when things go awry, is to impose our needs on the others and wait for them to change accordingly, let’s think about it twice, because our life will be filled with resistance and hostility.
+Third strategy: when things are not going as expected, we pretend they don’t exist.
+Like an ostrich, we bury our head in the sand.
+Often, at the base of this kind of dynamic, is the fear to face the conflict that would emerge if we were to express our needs.
+And so, what do we do?
+We smother them for the “common good”.
+And yet, by acting this way, we never take a stand and we are not able to define ourselves and our own identity.
+And we live at the mercy of the other person’s needs.
+I remember a young man, the son of divorced parents, who, from his early childhood, had learned to diplomatically weasel his way out of his parents’ fights, often driven by the fear that, if he ever took the side of one of the parents, he would lose the love of the other.
+In an extreme situation like this, he learned some important things.
+He learned, for instance, to listen, he learned acceptance, and he learned to acknowledge even distant motivations.
+However, he never learned to say “no” to the things he did not like.
+He never learned to say “no” to relationships that chased him, so he accepted relationships at all condition. In fact, he was one of those people who had to mediate, at all costs.
+By acting this way, where were his needs, his desires, and his ambitions?
+They were always subject to the fear of facing conflict and to the need to make everyone else happy.
+If your preferred strategy, when things are going bad, is to smother your own needs, sooner or later your body will start speaking up for you.
+And instead of making everyone happy, you will end up disappointing them.
+Complaining, imposing one’s needs, or turning them off, are three very limiting strategies.
+And I have all the reason to tell you this, because, in my life, I have certainly abused of them all.
+Let me tell you what happened to me.
+One day, the head physician of my hospital summoned me and told me: “Mazzucchelli, there is no more room here for you.
+If you'd like to keep cooperating with us, you must agree to be transferred”. And he mentioned a distant, mostly disliked location. On top of that,
+I had to move and take a job that had little to do with what I had studied insofar.
+I felt like dying.
+And yet, complaining made no sense, nor trying to change his mind: “Doctor, can’t you send my workmate?” And why should I ever accept a compromise that was unacceptable for me?
+It was then that I realized that, in order to obtain a different outcome, I should have done different things.
+For the first time, and indeed at my own risk, I realized that the secret to changing other people is changing oneself.
+If I had changed, then people all around me would have to adjust, adapt, change.
+By becoming a brilliant, competent, all-rounded, and unique psychologist, I could avoid the transfer by the head physician.
+And even if he had stuck to his decision, I would not have felt the same kind of shock.
+In fact, maybe I would have left of my own will, even before being kicked out.
+And if I wasn’t that kind of person yet, this wasn't other people’s fault. I had to look deep within myself, within my responsibilities.
+The point is, things don’t change.
+We change.
+And the first change we need to make is to choose ourselves.
+Choose yourself as the cause of the things that aren’t going as you wish.
+This is our crossroad.
+If you can’t find a job because “there is a crisis”, you are giving up the only tools at your disposal.
+Soon you'll find yourself alone, empty handed, facing something that's way bigger than you.
+I mean, if the crisis is to blame, what can you do about it?
+Conversely, looking at yourself, thinking that you can improve, that there is room for change, then you will see doors opening for you,
+because now it is your responsibility, and you can decide to learn a new language, read more books, take classes to acquire new skills or strengthen the ones you already have. You can work on your own person in order to become unique.
+Because life belongs to those who build it.
+Those who don’t act upon it, become its subjects.
+If, in a couple, things are not going well, and you think it is the other’s business to take the first step, you're sending your partner a message of inadequacy, and you're pushing him away.
+If instead you start from yourself, and maybe just ask yourself, everyday, this simple question: What can I do today differently to make her day better? Then, things change.
+But they don’t change accidentally, they do because you did.
+First you were chasing her flaws, now you’re chasing her needs.
+And then you try to address them.
+This way, you create a mental space where you can take care of each other, instead of fighting each other.
+If you are one of those people who come along everyone, that always say yes, one of those people I call, pardon the French, "relational prostitute", you’re clearly not just losing time, but even the things you do get pointless.
+If instead you start from yourself, from understanding your needs, from trying to understand how to address them, then the game becomes something you can master.
+It’s by starting a work on myself, looking at myself as a cause of the things that weren’t going as I expected, instead of their mere effect, that I started to feel I was becoming a better person.
+When I went to university, I had a dream: helping people living a better life through psychology.
+Making them understand that my discipline could offer some convenient, handy, sometimes even quick tools, to bring great value into their life.
+But folks, I ran into a lot of resistance.
+Stereotypes. Prejudices.
+A psychologist is the doctor
+of the crazy ones, the weak ones. Go talk to a friend, to a priest.
+What should I have done? Complain?
+How can you possibly neglect how beautiful psychology is? Should I have tried to change their mental priorities?
+To give up on my dream?
+No, I had to start speaking a whole new language, a less academic one, and closer to the street man.
+I had to learn the dynamics of the virtual communities.
+I had to start learning the new technological tools so I could communicate more effectively.
+I had to learn how to listen to their needs, instead of imposing mine.
+Shortly, this new way of thinking earned me previously unimaginable results.
+When I finished my conversation with my head physician, and his relocation offer, I couldn’t sleep for three days in a row: I did not know what to do.
+So I thought about it, then I accepted the transfer.
+But not what he had in mind.
+I moved myself here.
+I went home, turned the computer on, taped a video, and uploaded it on YouTube, where I talked about psychology.
+Here, by the way, I speak how to kick anxiety off, otherwise you might think that ...
+Shortly, my YouTube channel has become a national reference for psychology in videos.
+And thank to this, everyday, thousands of people approach psychology and reconsider some of the stereotypes I shortly talked to you about before.
+Recently, a magazine that since 1974, and I was born in 1979, spread psychology in Italy asked me to become their director. And today, every two months, it pops up in Italy’s best newsstands.
+And what struck me the most, is the acknowledgement that my initially puzzled colleagues kindly gave me.
+Appearently they’ve seen that my efforts to innovate the profession and communicate it, made some sense.
+And in Lombardy, I got elected to the vice-presidency of the Order of Psychologists.
+Dreams don’t come true accidently because of your lucky ass.
+The lucky-ass theory is only fostered by those who can’t build anything and need to destroy you.
+Because you do have to work your ass to the bone.
+You have to reconsider your identity, your standpoints, your certainties, your habits.
+If I learned anything, by all this inner path of mine, is that the most critical transition, the most delicate, perhaps, but also the most urgent one, has to take place inside yourself.
+Ten minutes ago, I asked you a question: If you had a chance to make one single wish to change an aspect of your life that isn’t going as you wish, what would that be? We talked about work, we talked about look, your bank account.
+I’d like to wrap up now with a gift, or at least try to do so.
+It’s a small question, but it’s been very useful to me, and it’s based on the idea that in order to generate big changes, one has to focus on a lot of small actions.
+What’s the smallest, simplest thing that you can do right now, tonight when you come back home after this great day, and will allow you to take the first step towards steering your life where you want to?
+Can you think about it?
+What’s the smallest, simplest thing you can do to steer you life where you mean to?
+(Applause)
+(Music) Musician: Fede, do you have the keys of the van?
+Musician: When is it time for lunch?
+Musician: Fede, the bus is leaving!
+Musician: Fede, where shall I put the sticks of the drum?
+Musician: Fede, will there be rehearsals on Tuesday?
+Musician: Fede, I broke the skin. Musician: Come on, Fede! It's time to set up the stage!
+Musician: Fede, when is my mum coming?
+Federico Alborghini: You know what?
+TED has given me the chance to speak for eight minutes, and I want to take this time for myself. Here.
+I had a dream. I wanted to create an "integration band", with different ages and abilities.
+Percussion instruments are so fast, so immediate:
+they shorten distances and connect heartbeats.
+We started off with seven people.
+Seven kids.
+I can picture them: Edo, Laura, Paola, Daniele.
+I saw them growing up.
+Our rehearsals were on Tuesdays. Tuesday was rehearsal day. We entered in this room in the Andreoli Music School,
+we painted the first cans, we spent time together, we had our first snacks together.
+Then we decided to become a marching band. Our group started growing then: seven, ten, 12, 14.
+We decided to compose our first pieces of music. Then our first tour, the first marching bands in public squares,
+the first gratifications, the first meetings. The first gratifications for the kids, for us and for everything we were doing. But, above all, the first rounds of applause.
+Unfortunately, on the night of 20th May 2012 the world crashed down on us, literally.
+Every single house was either completely condemned or collapsed.
+A violent earthquake hit our region and from then on throughout Italy we were "Emilia earthquake victims."
+All Italy called us like this.
+As I was saying, the houses were condemned, lots of them collapsed.
+Our rehearsal room, where we used to meet every Tuesday, was completely destroyed.
+Instruments were still inside.
+What did we do?
+Sara, Marco, Fede, Matteo, and I came looking for each of you: in the makeshift camps, in the caravans.
+We made it: Luckily, we found all of you.
+We ended up in a big tent, which housed Manitese association in Finale Emilia.
+Many wonderful things happened inside that tent: we overcame our fear by playing louder because the Rulli Frulli band plays louder than the earthquake. While the earth was shaking,
+we would look into each others’ eyes seeking a smile, a sight,
+as the earth was shaking.
+We built our first instruments there: dryer baskets became bass drums, we built pipe phones and played them with table tennis rackets, we made guitars with drainpipes from collapsed houses.
+We were always working, working, working. We were abuzz with energy, even though it was a dramatic time.
+Our first show was born in that tent. We decided to set up an actual performance.
+Meanwhile, more and more people would join: Friends were spreading the word. We started off with 20, then 25, 30, 40, 50.
+We put on our first show, "Il Branco," [The Herd].
+Why ''Il Branco''?
+Because among us there were wolf cubs, grown wolves, and a pack leader.
+In that moment we were moving all together, like a herd of wolves.
+The next year we held another show: ''La Ciurma'' [The Crew]. We all became sailors
+because we really needed to sail away and to leave our land for a while, to take a break.
+The following year we did ''Kraken,'' a sea monster.
+Right after that, "50 urlanti" [50 screaming], a flying ship, and 'Il Mare della luna'' [See from the Moon], this year. With "Il Mare Dalla Luna"
+we wanted to stop on the moon, for a while, to contemplate the sea.
+Many things have happened inside that big tent. None of us would have expected a tent to change our lives. But we did it.
+Let me tell you something more, before I run out of time. Everything we have done during these seven years seems a fairytale to me: 150 concerts around Italy, the MayDay Concert in Rome, the concert broadcast on the TV program ''Casa amica',' from the Materadio stage.
+We have been through so much together, and a shiver runs down my spine
+because this really is the stage of life, of sweat and fatigue, but also of the freshness which smells like chances and future.
+That's what happens when a dream comes true.
+Now I have to go back to the Rulli Frulli:
+They are waiting for me, we still have so much to build.
+Thanks to all of you.
+(Music) (Applause) One, two, three!
+(Applause) One, two, three!
+(Applause)
+Good evening.
+My name is Maria Cristina Ferradini until I started asking myself
+They have been 250 very important years, that have radically changed our history, and that we currently live in.
+People talk about social innovation, and my question is, what is this social innovation?
+And most of all: is our so often blamed Italy ready to accept this digital innovation?
+Is it ready to become a framework of innovation?
+This is the digital metamorphosis. We all wear or have near us an object that actually incorporates an evolution that has been extraordinary and has crossed these 250 years:
+the telephone. The telephone is a technological solution that belongs to the Industrial Revolution.
+It's an extremely advanced computer, and computers themselves belong to the Internet Revolution.
+It's connected. And once again, this is an invention of the Internet revolution, of the Internet stage of our history.
+But even so, these three factors together, and together with mobility, usher us into a new era, which we have historically and arbitrarily baptized in the years 2000, and we are living today.
+Let's understand what has happened in these 250 years that combine both the Internet and the Industrial Internet.
+When we think back to the Industrial Revolution, we remember it as a railway track, based on what we have studied on our school books.
+In reality, it was not just a railway track. We owe an awful lot to the Industrial Revolution,
+for example we owe the steam engine to it.
+And the steam engine is not just an engine, but is for example that tool that has helped and accelerated the extraction of coal,
+making it possible at a much lower cost.
+The steam engine then entered lanyard factories and fondries. It started to change manufacturing methods.
+But it did not just bring the steam engine, it also brought the combustion engine, which by the way
+comes from Tuscany, Italy.
+To the combustion engine we owe, for example, the automotive industry.
+In reality, it first served the naval sector, because the engine could not start from still.
+When they understood that it was an internal combustion engine, when they understood how to produce the spark to also ignite it from still, that spark developed the car industry, and all that came from it.
+But that's not all: we also owe the telegraph to the Industrial Revolution.
+Not only did the telegraph enable us to stop handwriting our letters and to send them around a world that was becoming bigger and bigger.
+It's also what enabled and taught us to place cables under the sea.
+We could not install telegraph poles in the sea. So, what could we do?
+Stop everything?
+No, we continued by laying the cables under the sea.
+To give you a historic dimension, the first cable was laid between Messina and Reggio Calabria.
+Not really two populations that get on, but that's where it went.
+It was around 1858.
+There is the telephone. The telephone is something we still live by today. We know what it is, we use it. It carries our voice.
+In 1877 in Rome 900 people had one. It was only 1877.
+And another invention: electricity.
+The first continental power station in Europe was built in Via Santa Radegonda, in Milan, where now
+the Renascent stores are, but in 1873 the first power station was built there.
+On December 30th of that year, the Scala Theatre was lit.
+Part of our history started there.
+But let's continue, a bit faster.
+We reach 1950. Italy has already grown, it's experiencing a certain comfort;
+on the other hand, the century already undwerwent significant shocks and artistic and cultural emotions.
+But something unprecedented
+starts to take shape: computers, which in fact are calculators.
+Calculators that in the early fifties could barely fit in a room like this, and could only perform calculus.
+They simply made calculation quicker.
+But they developed, getting more and more relevant, more and more embedded, more and more intelligent. They became contributors of intelligence.
+They started being the artificial intelligences we see now.
+But during these fifty years of the Internet revolution, something else happened.
+There were research institutes, with mostly safeguard and defence objectives, that pushed the development of underground networks, not underground as in under the ground, but as in unknown.
+And one day it was decided to open this network.
+And these networks, called Arpa, Arpanet, started becoming the World Wide Web that we know.
+A widespread, horizontal, non-hierarchic system. Extremely capillary, capable of carrying, collecting and generating information.
+To give you an idea, in 1981 only 300 computers were connected to the Internet.
+In 1995 there were 25 million. Not many.
+Today they are in the range of tens of billions. We are not just talking about the actual computers that we use, but of all those intelligent systems that connect to the net load it with data, collect and process it.
+When the mechanical force, which has now been replaced, introduced by the industrial revolution, started to cross with the artificial intelligence of computers, mobility and the Internet, we started living in the current era:
+what we call Industrial Internet.
+All this follows a pattern of creative destruction: basically an industrial process that tells us that what is new gradually destroys what is old, because it needs space.
+Later we will see better how.
+But this is the history of large numbers, of big inventions.
+There's another history that is more human, that belongs to us a little more, and I'll try to dig it.
+I'll try to guide you.
+It was 1863. Italy just made, not so much the Italians. Minghetti, the Minister of Treasury, declared public employees to be paid on the 27th day of the month. And it should have happened from the 27th of the following month on.
+Even if we do not realise it, Minister Minghetti is introducing something extraordinary.
+Before, the richness of a family, or even of an individual, lied in their ability to produce the goods and services they needed.
+With a guaranteed salary, the fact that it was less risky than seasons, or farming animals, some started to quit farming. Most of all, it shifted the economic power from the production of goods and services, to the production of one single good: money.
+But there's a second point: the refrigerator.
+For us women, this revolution obviously made things easier.
+But in fact, what makes a refrigerator significant isn't just freeing us from shopping daily. It’s also that industrial system that enables us to store in a massive and healthy way massive amounts of food.
+It therefore gives us once again the chance to focus on something that's not an immediate daily urgency.
+This is the man that starts living towards the end of the twentieth century. This is us.
+In the meantime, as we said, computers, and the Internet, came along,
+and a new quality became quintessential to these years. There is an element we can think of as the qualifying factor of these years: speed.
+250 years ago we weren't as fast as we are today.
+Today we do quickly, we move quickly. It’s speed:
+the speed of networks, movements, our movements, and also our thinking. Which does not mean quality of thinking.
+But we are very fast.
+Until something happened...
+Typically, when we look at history, we try to get the shifts from one century to the next, to spot out the dates, which are not necessarily the year 00:
+1900, 2000. When can we say the 20th century ended?
+I believe, but this is arbitrary, two dates draw a particularly bold line: 2001 and 2008.
+2001 because, first of all, the American economy started slowing down. Plus, the Twin Towers fell down. Something started to rock the boat.
+Seemingly solid balances proved to be rather fragile.
+But we went on, until something slowed things even further: the Western and Eastern world's biggest economic crisis ever.
+Not only America almost ground to a halt.
+It also happened in the East.
+Some European countries were on the verge of bankruptcy.
+Greece was on the verge of bankruptcy. No one talks about it anymore,
+but it's still there.
+Something has changed, but what?
+The economic paradigm has changed.
+We should have expected the biggest economic crisis, which actually happened in 2008.
+How did we fail to think about it? How couldn't we predict such an epic crisis,
+now that we can do everything with so much less people?
+It had to happen. We were blind in not expecting it.
+Look at these companies. These companies are mostly pocket size multinationals. But most of all, they were all born after 2011.
+What did these companies do?
+They did not renew themselves by inventing something, they didn't build something that wasn't there already:
+they started doing what we've always done - buy, sell, travel, learn - in a different, and more efficient way.
+And Italy?
+The Italy that is so often put down?
+Let's look at 5 digital penetration indexes for Italy.
+Connectivity: we are 10 percentage points below average. But in all honesty we are close to a 50% fast connection.
+
+Is it a lot? Is it not much?
+It's something anyway.
+Human skills, human resources:
+we need to point out that skills must be split into advanced and basic.
+Basic skills enable to use computerised and digital systems, advanced skills enable us to develop them.
+The third factor that we must look at is the use of Internet. We have it. But do we use it?
+The fourth element is the inclusion of the digital factor in manufacture,
+namely e-commerce or industrialization of products and services.
+The fifth is the digitalisation of the public administration.
+Let's take some ambiguities out of the equation and stick with the key elements.
+First of all good news: all 5 indexes are improving.
+And their current speed of growth was totally unexpected up to 2 years ago.
+So we are getting in line with the rest of Europe. And this is good news.
+As for connectivity, we are 10 points out.
+But we only have to look at newspapers to see that we are growing quickly. There are new operators, new competitors.
+A very important competitive network is being built.
+Speaking about Internet usage, we are among the first.
+A deep change is actually undergoing and we are catching up to the European standards.
+There are two factors we must pay more attention to, which will be critical for the future of our country:
+skills, and the introduction of digital in production factors.
+Given the quirks of our country, we must be careful about it.
+We have two engines. The first one is what made Italy big in the fifties and sixties: the small and medium companies.
+Small-medium companies weren't absolutely useless, ineffective and uncomparable to big multinationals. In truth, they are possibly the most effective entrepreneurial tool to intercept the speed of the change. They are nimble, fast, small.
+They made "Made in Italy" the brand it is. They have a quality and an excellence in the production of services and products which is rather unique: everyone wants it.
+The only thing we need to do is persistently acquire competencies in these new realities,
+because they can become those pocket-size multinationals that Financial Times talks about, the ones that can fabulously serve a full market niche, generating wealth for all the surrounding framework.
+This is our first asset, our first great engine
+The second engine of Italy is its artistic and cultural heritage,
+a heritage that due to its nature, is inherently analogic, and will remain so. We cannot digitalize the Coliseum.
+But how comes that tourists only visit three cities?
+Venice, Florence, Rome, and then back they go.
+But the heritage of these cities does not make up the heritage of our whole country.
+And we are learning, maybe a bit late - but we're quick to catch up - to include this heritage within a knowledge system that enables us to carry it, export it, to make it known, and to take tourism to not just 3 cities, but to our whole country.
+I believe that this is the biggest wish we can make for our Italy.
+Thank you.
+(Applause)
+The topic I am going to discuss is somehow quite the opposite of the word which makes our meeting possible today.
+It's the opposite of the word "share", I won't talk about sharing but, in a way, of its opposite, that is inequality.
+I'll talk about inequality, and first off, I'd like to start with a question.
+If someone asked you point-black, "In your opinion, in the last 15-20 years, exactly in 21st century, has income inequality increased or decreased worldwide?"
+I think most of you would say, "It has increased!"
+And if you were reporters, you'd maybe add an adverb, "It has increased exponentially."
+If I were to ask you, "What about Italy?"
+Maybe most of you would say, "Even here."
+I asked myself these questions over the last few years and with Sole 24 Ore and David Hume Institute Foundation I have been writing a report on inequality with my colleagues since 1960, when we got the first information, basically. regarding the great majority of the countries of the world.
+The outcome is the one you can see.
+[Distribution] This is the curve trend of income inequality between societies in the world.
+As you can see, there's been an effective inequality increase, mostly in 80s and 90s, but starting from the end of last century, namely late 90s, the inequality of citizens from all over the world has dropped a great deal; we have reached the lowest level.
+What about Italy?
+As for inequality in Italy, we have such a delicate situation to deal with.
+It increased in the 80s and 90s, but over the last 20 years, precisely at the beginning of the Second Republic, we had a trend of decreasing inequality.
+How can we interpret such data?
+A possible interpretation could be, "We all got the wrong end of the stick, we have kept talking about inequality increase for years, but seemingly the data we've got do not confirm our prediction." And I think
+this interpretation is plausible.
+We could also ask ourselves, "What if this feeling of inequality increase, which many of us, including myself, experience, what if it wasn't this feeling to be wrong, and it was the idea of inequality we are discussing to be so?"
+Maybe we should focus on the concept of inequality and on what we actually mean by inequality.
+Maybe the concept of inequality needs an overhaul.
+Let's set aside this question for now; let's move back some years and change location too: imagine we are in Cambridge in 1928, a year before the Great Crash of '29.
+J.M. Keynes, who was in Cambridge, pronounced a discourse in front of an audience of students, such a discourse became famous with the title: "Ecomonic possibilities for our grandchildren".
+Keynes made two prophecies.
+The first one says, "In a century, the productivity of 1 hour of work will be 8 times higher than what it is today," in 1928.
+And this prediction was correct. For example, if you consider the reconstructions made by economic historians, for the vast majority of advanced societies, we had an increase of productivity, over the span of 100 years, which is 10, 12 or sometimes, 15 times higher.
+So this prophecy was fulfilled.
+And Keynes came up with a conclusion out of this prophecy; according to him, humanity, over the span of 100 years, would have had a considerable amount of spare time which would have led it to work less and, he said, to make everyone contribute.
+And when he said "less", he meant much less. He meant 15 hours of work a week or a schedule of 3 hours of work a day.
+And he thought it was a problem, the question he asked himself was, "Can we spend our spare time in a productive way?"
+Well, seemingly this second prophecy was not fulfilled at all.
+Because as we know, not everyone has a job, and it doesn't sound like we work for 3 hours a day.
+Anyway, I want to highlight this prophecy is split into two parts: there's one which says we all work, which is of course false; but the first part, - which says we'll work much less, 3 hours a day - are we sure it wasn't fulfilled anywhere?
+Let's focus on what happened in Italy.
+This curve represents the amount of time an average Italian spends working throughout their life.
+Of course we mean their potential working period, since the age of 15 onwards, when we are able to work, basically.
+If we consider this possibility, Keynes' prophecy was true, actually.
+Because at the beginning of 20th century, we spent almost 40% of our time working.
+Nowadays, the percentage has dropped to 16%.
+And what's more is that this 16% means 2 hours and 15 minutes a day.
+It means that we have already crossed the threshold of 3 hours in Italy.
+Obviously, this happened for quite trivial reasons, if you agree with me.
+For example, our life expectancy has increased a great deal, since we live much longer.
+It has increased an average of 27 years since the beginning of the last century, since 1900s.
+There's another positive reason behind it, or a banal reason, even: in most cases, our kids study for a long period of time even up to the age of 25-30 years.
+So even the period of youth has lengthened.
+But there's maybe a major reason for which the amount of time we spend to work has dropped.
+It's the drop in the rate of employment, that is the number of people who actually work.
+This is the time series regarding the total employment rate, recreated for this context.
+This time series is dramatic, it shows you that at the beginning of the century, during the monarchy era, prior to the Second World War, the rate of employment was even higher than 70%, most of the time.
+Today the percentage is very low: it's under 50%.
+Or rather: since 1968, except from one year, the rate of employment has always been below 50%.
+But what does "rate of employment below 50%" actually mean?
+It means there are more people who work than people who do not.
+So the pure consumers who don't have any income, are more than workers.
+Judging from this historical fact, we can have an enthusiastic reaction saying, "But it's called progress, my dear, it's called modernity.
+Things went this way because we could afford to do so."
+So let's see if in the country considered the symbol of modernity, namely the United States, things went the exact same way.
+If this interpretation is correct, it should be valid for the U.S. too.
+Let's focus on the comparison between Italy and the US.
+This is the time series of the hours spent at work in our life.
+As you can see, in the US, it decreased only until the 1930s.
+Then it leveled off with a slight increase trend. In Italy it collapsed.
+However, much more impressive is the time series of the employment rate, because we can even notice an increase here: the peak at the bottom is the Great Crush of 1929.
+After the Great Crush, we had a general increase trend of the employment rate in the United States.
+As for Italy, our country experienced a decrease in the employment rate.
+So the situation is quite critical in Italy!
+It's not normal people who consume without working are more than who actually works.
+It's not normal that the majority of the population live in a state which I'd rather define as "parasitic dependence."
+"Dependence" because they live off other people's money - other people being family members, or the State - "parasitic" because I spend money, I have regular income without working.
+I have a friend who's a theater actor.
+When I found these results, we were dining out and I asked him: "How would you represent this situation with an image?
+I mean a parasitic dependence". Do you want to hear his answer to my question?
+With an hippopotamus and that bird which lives on it, which is called "bufago" or "bufaga."
+Here it is.
+If you want to know how this bird behaves, I mean that bufago on the hippo - or on other big mammals: such birds live even on rhinoceroses, on buffaloes - we have this short clip which will entertain us for a few seconds, where you can see these birds who manage to live off the resources the buffalo provides, such as insects, larvae, and ticks: all those parasites which hold on the back of buffaloes.
+It's not clear whether buffaloes are happy with it or not: when their ears wiggle it could either mean they want to play, or that those birds are really bothering them.
+Either way, that's what happens in nature.
+I'm not an ethologist, though.
+I'm a sociologist, so the question I asked myself as a sociologist is another one.
+How can we define a situation like this one?
+How can we define a society where pure consumers are the vast majority whilst producers represent the minority?
+How can we define a society where there is such an unproductive consumption?
+As for the first question, my answer is: this is called nobility!
+It's like what we find in feudal societies where there is a social class in a position to live without working.
+Of course it's not enough, people need to get qualified.
+This is, indeed, a condition typical of nobility, we can say, but it's a mass nobility.
+Why?
+Because there are more consumers than producers!
+In the traditional nobility, we have the lord and his serfs who produce for him.
+And the relationship is crystal clear in this case: it's a domination/submission relationship.
+In mass nobility, it's a little bit more complicated: there are many lords, and the relationship between lords and producers is much more complicated.
+Gregory Bateson, a great anthropologist and psychologist, would have defined it as a double-bind relationship: let's see why.
+Double-bind because the relationship between the bird and its hippopotamus is based on parasitism which is a pro, hence the green arrow; but even a dependence relationship, because it depends on the food the bird finds on the hippopotamus.
+The red arrow represents a disadvantage.
+Even referring to producers, we have a red arrow and a green one, once more.
+The hippopotamus is autonomous, it doesn't need the bird, but it's somehow a bound relationship, the same as the relationship between us and who lives off us, because it's impossible for the hippopotamus not to feed the birds which live on its back.
+So the situation is really complicated, it's a double-bind kind of relationship.
+However, this is not good at all, it's a situation where we can spot another inequality issue.
+Here's the answer to the question I asked mentioning Keynes.
+Nowadays the actual inequality is maybe the inequality in access to work.
+Access to work is really unbalanced in our society, If we are talking about inequality in access to work, we can use standard tools of inequality analysis, so we can compute the Gini coefficient of wealth distribution, which is the most common measure of inequality, it's used at work.
+There are people who don't work, people who work part-time, people with one job and people with two.
+As for Italy, inequality in access to work is dramatic.
+Italy is second to last in the rankings, as well as Turkey. In Turkey inequality is at the utmost level, simply because women are excluded there.
+If we were in an Islamic country, we'd surely be the highest-ranking.
+Norway is in the best situation with the US being in the middle.
+In order to become a normal OECD country, we still need 7 million employments.
+How did we get at this point?
+This is the graph regarding inequality in access to work, in Italy, measured by the Gini coefficient.
+What you can see is impressive: inequality was at its lowest level in the monarchic era, especially during Italian Fascism; and at its utmost level during the Republican era, especially during the Second Republic, which is the one we live in.
+We still need 7 million employments.
+If we had 7 million more employments, our family would earn extra 1000€ a month, we would earn extra 12.000€ per year, And our state would have 150 billion euros to spend,
+which equals the money we spend on education and healthcare put together in Italy, more or less.
+But, to sum up, there's a problem.
+We were far too brave to write, in the first article of the Constitution, "Italy is a democratic Republic founded on labor."
+Despite being the only country to have this article in the Constitution, Italy is the worst western country, as well as Turkey.
+So, we can either try to change things, adding the missing 7 million employments, or delete the first article of the Italian Constitution.
+Because, if things don't change, that article sounds deceptive.
+Thank you.
+(Applause)
