@@ -6,12 +6,9 @@ import os, sys
 import csv
 from extractors import *
 import os
-
-rootdir = "C:\\Users\\Khushi\\Documents\\GitHub\\Shining-Through\\Data_Generation\\"
-#data = rootdir + 'preprocessed\\L2\\conllu\\'
-data = os.path.join(rootdir, 'preprocessed\\europarl', 'en')
-outname = rootdir + 'DE_out.csv'
-print(data)
+rootdir = r"C:\Users\Khushi\Documents\GitHub\shining\Shining-Through\Data_Generation"
+data = os.path.join(rootdir, "Datasets", "ted-talk", "en")
+outname = data + 'ES_out.csv'
 print('Starting data processing from %s' % data, file=sys.stderr)
 # here, for each file we collect counts averaged over number of words or number of sentences
 ## muted features: passives interrog andor wdlength mark nn
@@ -65,13 +62,13 @@ for l in languages:
 	print('==%s causative' % len(causal[l]), file=sys.stderr)
 	print('==%s temporal/sequencial' % len(sequen[l]), file=sys.stderr)
 	print('==%s DM of epistemic stance' % len(epistem[l]), file=sys.stderr)
-	
-
 
 for subdir, dirs, files in os.walk(data):
+	print('Processing %s' % subdir, file=sys.stderr)
 	for i, file in enumerate(files):
 		
 		filepath = os.path.join(subdir, file)
+		print('Processing %s' % filepath, file=sys.stderr)
 		last_folder = subdir
 
 		if not filepath.endswith('.conllu'):

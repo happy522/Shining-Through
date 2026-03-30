@@ -11,7 +11,7 @@ import re
 from igraph import *
 import itertools
 from helpfunctions import *
-
+import sys
 
 ## corrected sentence length for the file
 def av_s_length(trees, lang):
