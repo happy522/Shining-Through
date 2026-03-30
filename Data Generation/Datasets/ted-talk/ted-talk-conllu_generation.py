@@ -11,7 +11,7 @@ OUTPUT_FOLDER = Path("conllu_by_lang")
 LANGUAGE = "en"
 USE_GPU = True
 
-BATCH_SIZE = 32   # 🔥 tune this (128–512 depending on GPU memory)
+BATCH_SIZE = 128
 # ----------------------------
 
 
@@ -80,7 +80,7 @@ def main():
         tokenize_batch_size=2000  # helps throughput
     )
 
-    # Process each language sequentially (1 GPU)
+    # Process each language sequentially 
     for lang in ["FR", "ES", "IT"]:
         lang_df = df[df["source_lang"] == lang]
 

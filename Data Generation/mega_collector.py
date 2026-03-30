@@ -6,9 +6,9 @@ import os, sys
 import csv
 from extractors import *
 import os
-rootdir = r"C:\Users\Khushi\Documents\GitHub\shining\Shining-Through\Data_Generation"
-data = os.path.join(rootdir, "Datasets", "ted-talk", "en")
-outname = data + 'ES_out.csv'
+rootdir = r" " #Please provide path of conllu file's folder here example: Shining-Through\Data Generation\Datasets\europarl\data
+data = os.path.join(rootdir, "en") # Rename the conllu file name to en "Shining-Through\Data Generation\Datasets\europarl\data\DE_en_conllu" here "DE_en_conllu" -> "en"
+outname = data + 'DE_out.csv' # Write language name for which you are extracting feature here
 print('Starting data processing from %s' % data, file=sys.stderr)
 # here, for each file we collect counts averaged over number of words or number of sentences
 ## muted features: passives interrog andor wdlength mark nn

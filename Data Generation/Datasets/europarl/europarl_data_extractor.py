@@ -32,7 +32,6 @@ def extract_blocks(text):
     return blocks
 
 
-# get first 5 files only
 files = sorted(os.listdir(en_folder))
 
 for filename in files:

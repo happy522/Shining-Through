@@ -8,7 +8,7 @@ import openpyxl
 INPUT_FOLDER = Path(r"/home/translation/shining_through/data/DE_output").resolve()
 OUTPUT_FOLDER = Path(r"/home/translation/shining_through/data/DE_output_en_conllu").resolve()
 
-LANGUAGE = "en"   # change depending on source language
+LANGUAGE = "en"
 USE_GPU = True
 
 DOC_BATCH_SIZE = 128
