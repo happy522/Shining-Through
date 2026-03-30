@@ -1,4 +1,4 @@
-# Shining-Through=
+# Shining-Through
 This project investigates the **shining-through effect**, where linguistic properties of a **source language** persist in its **English translations**.
 
 We build a full pipeline that:
@@ -9,7 +9,6 @@ We build a full pipeline that:
 ---
 
 # Overview
-
 The goal is to determine whether translated English text retains patterns from:
 - German (DE)
 - French (FR)
@@ -30,20 +29,17 @@ We achieve this by:
 - TR: scientific publications abstracts of students SciPar corpus (Roussis et al. 2022) - translated from other language to English
 - Languages: DE, FR, ES, IT
 
----
 
 ## 2. Europarl
 - Source: https://www.statmt.org/europarl/
 - Version: v7
 - Languages: DE, FR, ES, IT
 
----
 
 ## 3. TED Talks
 - Source: https://www.openslr.org/100/
 - Languages: FR, ES, IT
 
----
 
 ## 4. Subtitles
 - Source: OpenSubtitles API
@@ -73,7 +69,8 @@ Data Generation:
 
 ## Subtitles: https://api.opensubtitles.com/api/v1/subtitles
 - Using API we can extract the subtitles.
-
+  
+---
   
 # Project Structure
 
