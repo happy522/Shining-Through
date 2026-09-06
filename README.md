@@ -104,3 +104,30 @@ Shining-Through/
 │   │   └──europarl_shining_through.ipynb
 ├── .gitattributes
 └── README.md
+
+
+```
+
+## Token Information:
+L2: Average # tokens per text: 349.55876033057854
+Median # tokens per text: 350.0
+Minimum: 2
+Maximum: 880
+
+
+TR1:
+| L1 | Average tokens | Median tokens | Minimum | Maximum |
+|----|---------------:|--------------:|--------:|--------:|
+| DE | 249.28 | 243 | 2  | 2,826 |
+| ES | 420.16 | 396 | 18 | 11,406 |
+| FR | 305.01 | 277 | 0  | 4,670 |
+| IT | 112.68 | 91  | 2  | 2,757 |
+
+
+TR2:
+| L1 | Average tokens | Median tokens | Minimum | Maximum |
+|----|---------------:|--------------:|--------:|--------:|
+| DE | 7456.51 | 6744 | 272 | 25,562 |
+| ES | 3542.85 | 2924 | 32  | 16,983 |
+| FR | 7033.54 | 6013 | 51  | 33,821 |
+| IT | 3450.11 | 3068 | 51  | 24,634 |
