@@ -109,10 +109,13 @@ Shining-Through/
 ```
 
 ## Token Information:
-L2: Average # tokens per text: 349.55876033057854
-Median # tokens per text: 350.0
-Minimum: 2
-Maximum: 880
+L2:
+| L1 | Average tokens | Median tokens | Minimum | Maximum |
+|----|---------------:|--------------:|--------:|--------:|
+| DE | 377.87 | 368 | 63 | 806 |
+| ES | 362.18 | 353 | 73 | 778 |
+| FR | 355.84 | 354 | 62 | 703 |
+| IT | 325.00 | 334 | 15 | 619 |
 
 
 TR1:
