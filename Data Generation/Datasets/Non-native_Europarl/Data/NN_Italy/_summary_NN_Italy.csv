@@ -1,0 +1,58 @@
+﻿session_id;file_line_first;file_line_last;matched_sentences;speaker_turns;speakers;csv_file
+ep-01-01-18;1;3;3;1;Costa, Paolo;ep-01-01-18.csv
+ep-01-05-02;4;11;8;1;Manisco;ep-01-05-02.csv
+ep-01-06-12;12;17;6;1;Frassoni;ep-01-06-12.csv
+ep-01-07-05;18;26;9;1;Manisco;ep-01-07-05.csv
+ep-01-09-05;27;27;1;1;Frassoni;ep-01-09-05.csv
+ep-01-11-14;28;30;3;1;Fatuzzo;ep-01-11-14.csv
+ep-02-09-04;31;40;10;1;Manisco;ep-02-09-04.csv
+ep-02-09-25;41;47;7;1;Manisco;ep-02-09-25.csv
+ep-02-11-06;48;63;16;1;Gawronski;ep-02-11-06.csv
+ep-03-01-29;64;74;11;1;Manisco;ep-03-01-29.csv
+ep-03-11-05;75;77;3;1;Gawronski;ep-03-11-05.csv
+ep-04-03-09;78;81;4;1;Frassoni;ep-04-03-09.csv
+ep-04-03-31;82;93;12;1;Frassoni;ep-04-03-31.csv
+ep-04-05-04;94;118;25;1;Frassoni;ep-04-05-04.csv
+ep-04-10-14;119;119;1;1;Chiesa;ep-04-10-14.csv
+ep-05-03-10;120;120;1;1;Prodi;ep-05-03-10.csv
+ep-05-09-07;121;124;4;1;Linda McAvan;ep-05-09-07.csv
+ep-06-02-15;125;135;11;1;Lilli Gruber;ep-06-02-15.csv
+ep-06-03-14;136;137;2;1;Linda McAvan;ep-06-03-14.csv
+ep-06-05-16;138;142;5;1;Linda McAvan;ep-06-05-16.csv
+ep-06-07-06;143;145;3;1;Jas Gawronski;ep-06-07-06.csv
+ep-06-11-14-007;146;155;10;1;Linda McAvan;ep-06-11-14-007.csv
+ep-06-11-14-012;156;158;3;1;Linda McAvan;ep-06-11-14-012.csv
+ep-07-03-12-022;159;164;6;1;Linda McAvan;ep-07-03-12-022.csv
+ep-07-06-18-015;165;184;20;1;Linda McAvan;ep-07-06-18-015.csv
+ep-07-07-09-016;185;195;11;1;Linda McAvan;ep-07-07-09-016.csv
+ep-08-03-10-021;196;206;11;1;Linda McAvan;ep-08-03-10-021.csv
+ep-09-02-19-010;207;209;3;1;Jas Gawronski;ep-09-02-19-010.csv
+ep-09-04-02-006;210;229;20;1;Linda McAvan;ep-09-04-02-006.csv
+ep-09-12-16-009;230;241;12;1;Pino Arlacchi;ep-09-12-16-009.csv
+ep-10-01-19-004;242;255;14;1;Linda McAvan;ep-10-01-19-004.csv
+ep-10-03-08-015;256;265;10;1;Linda McAvan;ep-10-03-08-015.csv
+ep-10-04-19-016;266;271;6;1;Raffaele Baldassarre;ep-10-04-19-016.csv
+ep-10-12-15-016;272;288;17;1;Pino Arlacchi;ep-10-12-15-016.csv
+ep-11-03-09-011;289;294;6;1;Pino Arlacchi;ep-11-03-09-011.csv
+ep-11-04-07-007;295;308;14;3;Pino Arlacchi;ep-11-04-07-007.csv
+ep-11-05-10-019;309;322;14;1;Antonio Tajani;ep-11-05-10-019.csv
+ep-11-05-11-005-21;323;324;2;1;Roberto Gualtieri;ep-11-05-11-005-21.csv
+ep-11-06-07-006;325;334;10;1;Linda McAvan;ep-11-06-07-006.csv
+ep-11-06-08-007;335;351;17;5;Pino Arlacchi;ep-11-06-08-007.csv
+ep-96-10-22;352;370;19;4;Bonino;ep-96-10-22.csv
+ep-96-12-10;371;378;8;1;Manisco;ep-96-12-10.csv
+ep-97-06-10;379;388;10;2;Bonino;ep-97-06-10.csv
+ep-97-07-15;389;409;21;3;Bonino;ep-97-07-15.csv
+ep-97-07-17;410;415;6;1;Manisco;ep-97-07-17.csv
+ep-97-11-19;416;427;12;1;Manisco;ep-97-11-19.csv
+ep-97-11-20;428;442;15;2;Manisco;ep-97-11-20.csv
+ep-98-01-13;443;449;7;1;Manisco;ep-98-01-13.csv
+ep-98-02-18;450;456;7;1;Manisco;ep-98-02-18.csv
+ep-98-03-31;457;481;25;5;Bonino;ep-98-03-31.csv
+ep-98-05-14;482;486;5;1;Manisco;ep-98-05-14.csv
+ep-98-07-14;487;508;22;5;Bonino;ep-98-07-14.csv
+ep-99-01-12;509;524;16;2;Bonino;ep-99-01-12.csv
+ep-99-02-11;525;532;8;1;Manisco;ep-99-02-11.csv
+ep-99-04-14;533;543;11;1;La Malfa;ep-99-04-14.csv
+ep-99-09-15;544;549;6;1;Manisco;ep-99-09-15.csv
+ep-99-10-07;550;554;5;1;Manisco;ep-99-10-07.csv

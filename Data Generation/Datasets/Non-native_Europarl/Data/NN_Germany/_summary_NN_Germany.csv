@@ -1,0 +1,73 @@
+﻿session_id;file_line_first;file_line_last;matched_sentences;speaker_turns;speakers;csv_file
+ep-01-01-17;1;1;1;1;Jarzembowski;ep-01-01-17.csv
+ep-01-02-15;2;5;4;1;Schröder, Ilka;ep-01-02-15.csv
+ep-01-12-13;6;7;2;2;Pack;ep-01-12-13.csv
+ep-02-01-16;8;13;6;1;Roth-Behrendt;ep-02-01-16.csv
+ep-03-06-02;14;35;22;1;Mann, Erika;ep-03-06-02.csv
+ep-03-12-17;36;42;7;1;Randzio-Plath;ep-03-12-17.csv
+ep-04-03-09;43;51;9;2;Gröner, Schröder, Ilka;ep-04-03-09.csv
+ep-04-10-28;52;52;1;1;Wohlin;ep-04-10-28.csv
+ep-04-11-16;53;66;14;1;Öger;ep-04-11-16.csv
+ep-05-01-13;67;67;1;1;Alvaro;ep-05-01-13.csv
+ep-05-03-09;68;101;34;1;Alvaro;ep-05-03-09.csv
+ep-05-04-11;102;114;13;1;Alvaro;ep-05-04-11.csv
+ep-05-05-10;115;124;10;2;Cem Özdemir, Markov;ep-05-05-10.csv
+ep-05-06-23;125;130;6;1;Tobias Pflüger;ep-05-06-23.csv
+ep-05-11-14;131;136;6;1;Erika Mann;ep-05-11-14.csv
+ep-05-12-15;137;141;5;1;Tobias Pflüger;ep-05-12-15.csv
+ep-06-03-14;142;154;13;2;Erika Mann;ep-06-03-14.csv
+ep-06-04-03;155;158;4;1;Erika Mann;ep-06-04-03.csv
+ep-06-04-06;159;172;14;1;Cem Özdemir;ep-06-04-06.csv
+ep-06-05-17;173;181;9;1;Jürgen Schröder;ep-06-05-17.csv
+ep-06-06-01;182;183;2;1;Erika Mann;ep-06-06-01.csv
+ep-06-07-06;184;186;3;1;Alexander Alvaro;ep-06-07-06.csv
+ep-06-09-27;187;201;15;1;Erika Mann;ep-06-09-27.csv
+ep-06-11-30-009;202;207;6;1;Peter Liese;ep-06-11-30-009.csv
+ep-07-02-01-004;208;224;17;1;Erika Mann;ep-07-02-01-004.csv
+ep-07-06-27-006;225;234;10;1;Tobias Pflüger;ep-07-06-27-006.csv
+ep-08-11-18-011;235;235;1;1;Hartmut Nassauer;ep-08-11-18-011.csv
+ep-09-02-03-011;236;236;1;1;Wolfgang Kreissl-Dörfler;ep-09-02-03-011.csv
+ep-09-09-16-004;237;243;7;1;Sven Giegold;ep-09-09-16-004.csv
+ep-09-11-11-023;244;251;8;1;Helmut Scholz;ep-09-11-11-023.csv
+ep-09-11-24-005;252;260;9;1;Sabine Lösing;ep-09-11-24-005.csv
+ep-09-11-24-013;261;261;1;1;Elisabeth Schroedter;ep-09-11-24-013.csv
+ep-10-01-19-006;262;273;12;1;Franziska Katharina Brantner;ep-10-01-19-006.csv
+ep-10-02-10-008;274;288;15;1;Franziska Katharina Brantner;ep-10-02-10-008.csv
+ep-10-02-25-009;289;290;2;1;Helga Trüpel;ep-10-02-25-009.csv
+ep-10-03-10-008;291;293;3;1;Sabine Lösing;ep-10-03-10-008.csv
+ep-10-03-25-003;294;309;16;2;Sven Giegold, Werner Langen;ep-10-03-25-003.csv
+ep-10-05-05-013-53;310;311;2;1;Jan Philipp Albrecht;ep-10-05-05-013-53.csv
+ep-10-05-19-007;312;312;1;1;Sabine Wils;ep-10-05-19-007.csv
+ep-10-06-15-008;313;319;7;1;Kerstin Westphal;ep-10-06-15-008.csv
+ep-10-10-19-005;320;336;17;1;Franziska Katharina Brantner;ep-10-10-19-005.csv
+ep-10-10-20-010;337;340;4;1;Franziska Katharina Brantner;ep-10-10-20-010.csv
+ep-10-10-21-008;341;343;3;1;Sabine Lösing;ep-10-10-21-008.csv
+ep-10-11-24-009;344;351;8;1;Jutta Haug;ep-10-11-24-009.csv
+ep-10-12-13-021;352;373;22;1;Johannes Hahn;ep-10-12-13-021.csv
+ep-10-12-13-022;374;396;23;1;Johannes Hahn;ep-10-12-13-022.csv
+ep-11-01-18-015;397;437;41;2;Johannes Hahn;ep-11-01-18-015.csv
+ep-11-01-19-013;438;451;14;1;Franziska Katharina Brantner;ep-11-01-19-013.csv
+ep-11-02-03-004;452;461;10;1;Franziska Katharina Brantner;ep-11-02-03-004.csv
+ep-11-02-15-009;462;466;5;1;Gesine Meissner;ep-11-02-15-009.csv
+ep-11-03-10-003;467;515;49;2;Johannes Hahn;ep-11-03-10-003.csv
+ep-11-03-10-004;516;534;19;1;Johannes Hahn;ep-11-03-10-004.csv
+ep-11-03-10-005;535;557;23;2;Johannes Hahn;ep-11-03-10-005.csv
+ep-11-03-10-014-01;558;573;16;1;Johannes Hahn;ep-11-03-10-014-01.csv
+ep-11-03-10-014-02;574;591;18;1;Johannes Hahn;ep-11-03-10-014-02.csv
+ep-11-03-10-014-03;592;607;16;1;Johannes Hahn;ep-11-03-10-014-03.csv
+ep-96-04-16;608;614;7;1;Telkämper;ep-96-04-16.csv
+ep-96-04-17;615;618;4;1;von Habsburg;ep-96-04-17.csv
+ep-96-04-19;619;627;9;1;Goepel;ep-96-04-19.csv
+ep-96-07-17;628;633;6;1;von Habsburg;ep-96-07-17.csv
+ep-97-02-18;634;644;11;2;Bangemann;ep-97-02-18.csv
+ep-97-07-15;645;645;1;1;Rothley;ep-97-07-15.csv
+ep-97-09-19;646;647;2;1;von Habsburg;ep-97-09-19.csv
+ep-98-03-10;648;648;1;1;von Habsburg;ep-98-03-10.csv
+ep-98-03-11;649;650;2;1;von Habsburg;ep-98-03-11.csv
+ep-98-05-11;651;651;1;1;Rothley;ep-98-05-11.csv
+ep-98-05-13;652;656;5;1;von Habsburg;ep-98-05-13.csv
+ep-98-06-17;657;658;2;1;von Habsburg;ep-98-06-17.csv
+ep-98-09-14;659;659;1;1;Bangemann;ep-98-09-14.csv
+ep-98-09-15;660;661;2;1;Bangemann;ep-98-09-15.csv
+ep-99-01-12;662;664;3;1;von Habsburg;ep-99-01-12.csv
+ep-99-02-12;665;671;7;1;Bangemann;ep-99-02-12.csv

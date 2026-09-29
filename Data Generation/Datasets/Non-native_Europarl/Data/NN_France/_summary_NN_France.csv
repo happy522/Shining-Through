@@ -1,0 +1,32 @@
+﻿session_id;file_line_first;file_line_last;matched_sentences;speaker_turns;speakers;csv_file
+ep-01-10-02;1;6;6;1;Vatanen;ep-01-10-02.csv
+ep-02-01-16;7;9;3;1;Cohn-Bendit;ep-02-01-16.csv
+ep-02-02-27;10;11;2;1;Cohn-Bendit;ep-02-02-27.csv
+ep-03-09-02;12;17;6;1;Vatanen;ep-03-09-02.csv
+ep-03-11-05;18;21;4;1;Cohn-Bendit;ep-03-11-05.csv
+ep-04-01-14;22;27;6;4;Roche;ep-04-01-14.csv
+ep-04-01-28;28;90;63;3;Roche;ep-04-01-28.csv
+ep-04-02-10;91;100;10;1;Roche;ep-04-02-10.csv
+ep-04-03-10;101;517;417;30;Roche;ep-04-03-10.csv
+ep-04-03-30;518;632;115;3;Roche;ep-04-03-30.csv
+ep-04-03-31;633;800;168;7;Roche;ep-04-03-31.csv
+ep-04-04-20;801;831;31;1;Roche;ep-04-04-20.csv
+ep-04-04-21;832;896;65;2;Roche;ep-04-04-21.csv
+ep-04-05-04;897;1033;137;3;Roche;ep-04-05-04.csv
+ep-04-09-15;1034;1035;2;1;Vatanen;ep-04-09-15.csv
+ep-05-02-22;1036;1039;4;1;Lipietz;ep-05-02-22.csv
+ep-05-12-15;1040;1047;8;1;Ari Vatanen;ep-05-12-15.csv
+ep-06-01-19;1048;1062;15;1;Ari Vatanen;ep-06-01-19.csv
+ep-06-04-06;1063;1073;11;1;Ari Vatanen;ep-06-04-06.csv
+ep-06-05-16;1074;1087;14;1;Ari Vatanen;ep-06-05-16.csv
+ep-08-03-13-009-01;1088;1088;1;1;Marie Anne Isler Béguin;ep-08-03-13-009-01.csv
+ep-08-05-07-011;1089;1089;1;1;Alain Lipietz;ep-08-05-07-011.csv
+ep-09-02-18-019;1090;1136;47;2;Ari Vatanen;ep-09-02-18-019.csv
+ep-09-10-08-008;1137;1138;2;1;Pascal Canfin;ep-09-10-08-008.csv
+ep-09-10-22-009;1139;1139;1;1;Bruno Gollnisch;ep-09-10-22-009.csv
+ep-09-11-24-005;1140;1143;4;1;Jean-Luc Mélenchon;ep-09-11-24-005.csv
+ep-09-12-16-003;1144;1144;1;1;Catherine Trautmann;ep-09-12-16-003.csv
+ep-10-12-15-006;1145;1145;1;1;Alain Lamassoure;ep-10-12-15-006.csv
+ep-10-12-15-016;1146;1146;1;1;Philippe Juvin;ep-10-12-15-016.csv
+ep-10-12-16-005;1147;1147;1;1;Karima Delli;ep-10-12-16-005.csv
+ep-99-09-16;1148;1149;2;1;Cohn-Bendit;ep-99-09-16.csv

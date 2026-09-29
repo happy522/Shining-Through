@@ -1,0 +1,6 @@
+﻿corpus;file;source_language;sentences_in_file;not_found_in_tok;num_sentences;num_episodes;num_turns;distinct_speakers;joint_entries
+nonnatives;NN_France;fr;1149;0;1149;31;77;12;0
+nonnatives;NN_Germany;de;671;0;671;72;81;35;0
+nonnatives;NN_Italy;it;554;0;554;57;79;15;0
+nonnatives;NN_Spain;es;1761;0;1761;159;468;13;0
+nonnatives;TOTAL;;4135;0;4135;279;705;75;0
