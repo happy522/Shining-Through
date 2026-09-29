@@ -6,8 +6,11 @@ from stanza.utils.conll import CoNLL
 import os
 
 # ---------- CONFIG ----------
-INPUT_FOLDER = Path(r"/home/translation/data/TR/txt").resolve()
-OUTPUT_FOLDER = Path(r"/home/translation/data/TR/conllu").resolve()
+INPUT_FOLDER = Path(
+    r"C:\Users\Khushi\Documents\GitHub\shining\Shining-Through\Data Generation\Datasets\Non-native_Europarl\ACL2016\ACL2016\languages"
+)
+
+OUTPUT_FOLDER = INPUT_FOLDER.parent / "conllu"
 
 LANGUAGE = "en"
 USE_GPU = True
