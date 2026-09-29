@@ -80,7 +80,7 @@ def main():
         tokenize_batch_size=2000  # helps throughput
     )
 
-    # Process each language sequentially 
+    # Process each language sequentially
     for lang in ["FR", "ES", "IT"]:
         lang_df = df[df["source_lang"] == lang]
 
